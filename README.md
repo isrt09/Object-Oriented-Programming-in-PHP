@@ -1,1 +1,29 @@
-# Object-Oriented-Programming-in-PHP
+# Object Oriented Programming in PHP
+	Core Topic:
+	- Variables, Globals, Data Types and Constant
+	- Printf, sprintf, scanf, echo and var_dump
+	- Array
+	- Control Flow
+	- Functions & its parameters
+	- Error & Exception Handling
+	- Coding Standard
+	- String
+	- Math
+	- Date / Time
+	- HTTP Verbs
+	- File Management
+	- Session & Cookie Management
+	- SQL - DDL vs DML
+	- Debugging, BackTracing 
+	- Object Oriented Programming
+	- Class, Method, Property with Scopes
+	- Interface, Abstract, Inheritence
+	- Traits
+	- Namespace
+	- Dependency Injection
+	- Iterator & Generator
+	- PDO
+	- SQLite
+	- Mailing
+	- Error
+	- Ajax & Json
